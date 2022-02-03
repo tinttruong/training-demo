@@ -18,7 +18,7 @@ public class Name {
 	
 	StringBuffer strB = new StringBuffer();
 	strB.append(str2);
-	strB.append("11/24/1997");
+	strB.append("18/10/1995");
 	str2 = strB.toString();
 	
 	System.out.println(str2);
